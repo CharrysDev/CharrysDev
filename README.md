@@ -3,10 +3,3 @@ Hello everyone! My name is **David Santiago Charrys Pacheco**, I live in Barranq
 
 ## Where do I study?
 I am taking an IBM Professional Certificate on Coursera. It consists of a series of 12 courses that you must complete, in which they teach the things we need to learn to be Full-Stack Developers, such as Cloud Computing, Git & GitHub, HTML, CSS, & JavaScript, React, Node.js, Express, Python, Django, Flask, databases and containers. I also watch some classes and courses on YouTube.
-
-## Why I decided to be a Programmer?
-Idk. I only know that one morning I woke up and said: I want to be 
-programmer
-
-## My Certificates:
-![imagen](https://github.com/CharrysDev/CharrysDev/assets/134667238/79b29771-5dd3-403b-94d4-a068f3b5e703)
